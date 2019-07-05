@@ -1,5 +1,5 @@
 {
-  "show_button":false,
+  "show_button":true,
   "icon_url":"https://raw.githubusercontent.com/apideveloperdan/AndroidGamesAPI/master/Icon.png",
-  "app_url":""
+  "app_url":"https://play.google.com/store/apps/details?id=com.AndroidGamesDan.ColoredMaze"
 }
