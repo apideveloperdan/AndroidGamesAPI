@@ -1,5 +1,5 @@
 {
-  "active":false,
-  "app_id":"com.AndroidGamesDan.DiceRoll",
-  "icon_url":"https://raw.githubusercontent.com/apideveloperdan/AndroidGamesAPI/master/icongreen.png"
+  "active":true,
+  "app_id":"puzzle.boardgame.range12",
+  "icon_url":"https://raw.githubusercontent.com/apideveloperdan/AndroidGamesAPI/master/Icon2.png"
 }
